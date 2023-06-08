@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+
+
+html,
+body,
+#root,
+.app{
+    height: 100%;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    background-color: #cbc3e3;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background: #cabae2;
+}
+::-webkit-scrollbar-thumb{
+    background: #463366;
+}
+::-webkit-scrollbar-tranck:hover{
+    background: #463366;
+}
